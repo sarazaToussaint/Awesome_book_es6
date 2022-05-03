@@ -1,73 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Book List: A book list build without frame works.
 
-> Description the project.
+>This is project built to show collections of books, and give users access to add new books or remove an existing book
 
+## [Deployed Version]()
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+* HTML
+* Css
+* Es6
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- To get a local copy open and running follow these simple example steps.
+
+   ## Setup
+
+   - Download or Clone Repository.
+
+   ## Installation
+
+ - Once folder in your text editor:
+
+Run `npm install` command to install all dependencies. N.B: Make sure that you have node installed in your commputer, if not [Download Node](https://nodejs.org/en/)
 
 
-To get a local copy up and running follow these simple example steps.
+### Authors
+***
+👤 Toussaint Saraza
 
-### Prerequisites
+* GitHub: [@sarazaToussaint](https://github.com/sarazaToussaint)
+* Twitter:[@Toussaint Saraz1](https://twitter.com/precious_akams)
+* LinkedIn:[Toussaint Saraza](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+### Acknowledgments
+* Microverse
